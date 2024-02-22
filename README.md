@@ -14,7 +14,7 @@ Mi nombre es Javier Alcántara, soy analista programador. Vivo en chile, en la r
 
 
 💬 **Sobre Mí:** <br>
-<div align="center">
+<div align="center" width="200px" height="30px">
   <pre>
     💼 Trabajando en mi aprendizaje constante 
     🌱 Me encuentro aprendiendo desarrollo en Android con Java y Kotlin
