@@ -12,7 +12,6 @@ Mi nombre es Javier Alcántara, soy analista programador. Vivo en chile, en la r
 💬 **Sobre Mí:** <br>
   - 🔭 Actualmente me encuentro buscando oportunidades laborales.
   - 🌱 Me encuentro aprendiendo desarrollo en Android con Java y Kotlin.
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
 
 💻 **Lenguajes y Herramientas:** 🛠️<br>
 
