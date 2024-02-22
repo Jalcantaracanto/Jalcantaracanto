@@ -1,4 +1,8 @@
 ![Header](https://raw.githubusercontent.com/Jalcantaracanto/Jalcantaracanto/master/HeaderGithub.png "Header")
+[![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
+)](https://www.linkedin.com/in/jalcantaracanto/)
+[![Mail](https://img.shields.io/badge/Gmail-javier.alcantara.canto%40gmail.com-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
+)](mailto:javier.alcantara.canto@gmail.com)
 
 # Hola Mundo!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
@@ -33,13 +37,14 @@ Mi nombre es Javier Alcántara, soy analista programador. Vivo en chile, en la r
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
+<!-- 
 📫 **Contacto:** <br>
 
 [![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
 )](https://www.linkedin.com/in/jalcantaracanto/)
-[![Mail](https://img.shields.io/badge/Gmail-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
+[![Mail](https://img.shields.io/badge/Gmail-javier.alcantara.canto%40gmail.com-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
 )](mailto:javier.alcantara.canto@gmail.com)
+-->
 <!--
 **Jalcantaracanto/Jalcantaracanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
