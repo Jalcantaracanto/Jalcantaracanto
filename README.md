@@ -1,16 +1,16 @@
-### Hi there 👋
-
+# Hola Mundo!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+Mi nombre es Javier Alcántara, soy analista programador. Vivo en chile, en la región de Valparaiso. 
+<!-- 
 Alguna foto de portada
 
-[![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
-)](https://www.linkedin.com/in/jalcantaracanto/)
-[![Mail](https://img.shields.io/badge/Gmail-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
-)](mailto:javier.alcantara.canto@gmail.com)
+## Sobre Mí
+-->
 
-<h2 align='center'><samp><strong>Hola 👋, soy Javier Alcántara</strong></samp></h2>
-<p align='center'>Analista Programador</p>
 
-<p align='left'> ingresar descripcion</p>
+💬 **Sobre Mí:** <br>
+  - 🔭 Actualmente me encuentro buscando oportunidades laborales.
+  - 🌱 Me encuentro aprendiendo desarrollo en Android con Java y Kotlin.
+  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
 
 💻 **Lenguajes y Herramientas:** 🛠️<br>
 
@@ -33,6 +33,12 @@ Alguna foto de portada
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
+📫 **Contacto:** <br>
+
+[![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
+)](https://www.linkedin.com/in/jalcantaracanto/)
+[![Mail](https://img.shields.io/badge/Gmail-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
+)](mailto:javier.alcantara.canto@gmail.com)
 <!--
 **Jalcantaracanto/Jalcantaracanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
