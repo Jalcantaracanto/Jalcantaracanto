@@ -14,6 +14,7 @@ Mi nombre es Javier Alcántara, soy analista programador. Vivo en chile, en la r
 
 
 💬 **Sobre Mí:** <br>
+Apasionado por la tecnología y el desarrollo, me esfuerzo cada día por convertirme en un programador mejor. Me encanta explorar nuevas tecnologías y desafiar mis límites en la creación de soluciones innovadoras
 <div align="center" >
   <pre>
     💼 Trabajando en mi readme personal de Github
