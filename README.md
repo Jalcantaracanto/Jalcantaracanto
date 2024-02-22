@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Alguna foto de portada
+
 [![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
 )](https://www.linkedin.com/in/jalcantaracanto/)
 [![Mail](https://img.shields.io/badge/Gmail-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
@@ -7,6 +9,8 @@
 
 <h2 align='center'><samp><strong>Hola 👋, soy Javier Alcántara</strong></samp></h2>
 <p align='center'>Analista Programador</p>
+
+<p align='left'> ingresar descripcion</p>
 
 💻 **Lenguajes y Herramientas:** 🛠️<br>
 
