@@ -1,4 +1,6 @@
+<!--
 ![Header](https://raw.githubusercontent.com/Jalcantaracanto/Jalcantaracanto/master/HeaderGithub.png "Header")
+-->
 [![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
 )](https://www.linkedin.com/in/jalcantaracanto/)
 [![Mail](https://img.shields.io/badge/Gmail-javier.alcantara.canto%40gmail.com-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
