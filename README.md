@@ -14,7 +14,7 @@ Mi nombre es Javier Alcántara, soy analista programador. Vivo en chile, en la r
 -->
 
 💬 **Sobre Mí:** <br>
-Apasionado por la tecnología y el desarrollo, me esfuerzo cada día por convertirme en un programador mejor. Me encanta explorar nuevas tecnologías y desafiar mis límites en la creación de soluciones innovadoras.
+Analista Programador, siempre trabajando en el área de las tecnologías. Aspira a ser parte de un equipo de trabajo multidisciplinario y visionario. Proactivo, puntual, esforzado y resolutivo. Ha comenzado un bootcamp con Talento Digital English Always de desarrollo en android (Java y Kotlin) para seguir adquiriendo nuevos conocimientos. Quiere sumergirse en el mundo del desarrollo y tecnologías, para ser capaz de seguir creciendo continuamente en esta área.
 <div align="center" >
   <pre>
     💼 Trabajando en mi readme personal de Github
