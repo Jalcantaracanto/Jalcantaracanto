@@ -51,6 +51,22 @@ Analista Programador, siempre trabajando en el área de las tecnologías. Aspira
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+
+📑 **Proyectos:** <br>
+
+Te invito a ver algunos de mis proyectos que realice durante mis estudios:
+
+React:
+- [Curauma Sabor Ecommerce](https://github.com/Jalcantaracanto/ecommerce-CuraumaSabor) / Proyecto donde se simula un Ecommerce para una tienda de piscoSour.
+- [Social Dojo](https://github.com/Jalcantaracanto/SocialDojo) / Proyecto de una red social, conectada con Socket, para tener chat en tiempo real. Esta permite el guardado de imagenes.
+
+Java:
+- [Wallet Bank](https://github.com/Jalcantaracanto/WalletJava) / Programa a travez de consola, donde se utiliza el conocimiento de POO en Java.
+
+Android Kotlin:
+- [Alke Wallet API](https://github.com/Jalcantaracanto/AlkeWalletAPI/tree/interceptor) / Proyecto, que simula una aplicacion tipo Mach, donde puedes crear una cuenta, conectarte realizar transacciones y recibirlas.
+ 
 <!-- 
 📫 **Contacto:** <br>
 
