@@ -1,10 +1,6 @@
 <!--
 ![Header](https://raw.githubusercontent.com/Jalcantaracanto/Jalcantaracanto/master/HeaderGithub.png "Header")
 -->
-[![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
-)](https://www.linkedin.com/in/jalcantaracanto/)
-[![Mail](https://img.shields.io/badge/Gmail-javier.alcantara.canto%40gmail.com-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
-)](mailto:javier.alcantara.canto@gmail.com)
 
 # Hola Mundo!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
@@ -65,14 +61,16 @@ Java:
 Android Kotlin:
 - [Alke Wallet API](https://github.com/Jalcantaracanto/AlkeWalletAPI/tree/interceptor) / Proyecto, que simula una aplicacion tipo Mach, donde puedes crear una cuenta, conectarte realizar transacciones y recibirlas.
  
-<!-- 
+
 📫 **Contacto:** <br>
+
+Te invito a contactarme a travez de LinkedIn o Correo!!!
 
 [![Linkedin](https://img.shields.io/badge/LikedIn-Javier%20Alc%C3%A1ntara-000000?style=flat&logo=linkedin&logoColor=blue&labelColor=black&color=blue
 )](https://www.linkedin.com/in/jalcantaracanto/)
 [![Mail](https://img.shields.io/badge/Gmail-javier.alcantara.canto%40gmail.com-000000?style=flat&logo=gmail&logoColor=red&labelColor=black&color=red
 )](mailto:javier.alcantara.canto@gmail.com)
--->
+
 <!--
 **Jalcantaracanto/Jalcantaracanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
