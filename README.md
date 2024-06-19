@@ -55,8 +55,6 @@ Analista Programador, siempre trabajando en el área de las tecnologías. Aspira
 
 📑 **Proyectos:** <br>
 
-Te invito a ver algunos de mis proyectos que realice durante mis estudios:
-
 React:
 - [Curauma Sabor Ecommerce](https://github.com/Jalcantaracanto/ecommerce-CuraumaSabor) / Proyecto donde se simula un Ecommerce para una tienda de piscoSour.
 - [Social Dojo](https://github.com/Jalcantaracanto/SocialDojo) / Proyecto de una red social, conectada con Socket, para tener chat en tiempo real. Esta permite el guardado de imagenes.
